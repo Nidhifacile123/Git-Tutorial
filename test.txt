@@ -5,9 +5,16 @@ changing into test
 intern test
 <<<<<<< .merge_file_a10396
 work is in progress......
+<<<<<<< Updated upstream
 =======
 worked comleted.......
 >>>>>>> .merge_file_a03016
 
 
 error solved
+=======
+worked comleted.......
+
+
+not done stil.......
+>>>>>>> Stashed changes
