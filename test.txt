@@ -3,11 +3,8 @@ i am nidhi patel
 facile technolab
 changing into test
 intern test
+<<<<<<< .merge_file_a10396
 work is in progress......
+=======
 worked comleted.......
-
-
-
-
-not done stil.......
-done
+>>>>>>> .merge_file_a03016
