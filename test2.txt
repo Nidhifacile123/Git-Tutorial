@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 ...
+
+this is nidhi patel
 =======
 this is test 2 ...
 >>>>>>> 74f2c4ab15641b7a37e8264ef1909b58e708cbda
