@@ -1,7 +1,13 @@
 <<<<<<< HEAD
 ...
+
+this is nidhi patel
 =======
 this is test 2 ...
 >>>>>>> 74f2c4ab15641b7a37e8264ef1909b58e708cbda
 this is nidhi patel
+<<<<<<< HEAD
+facile technolab
+=======
 changes made on same file
+>>>>>>> ebeb46c3e1574a4df6424f85b37a1e271095baed
